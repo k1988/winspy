@@ -25,7 +25,8 @@
 #include <windows.h>
 #include <tchar.h>
 #include <uxtheme.h>
-#include <tmschema.h>
+//#include <tmschema.h>
+#include <vsstyle.h>
 #include "BitmapButton.h"
 
 #pragma comment(lib,    "Uxtheme.lib")
